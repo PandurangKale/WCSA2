@@ -1,0 +1,6 @@
+key                     value
+
+username                admin
+password                manager
+browser                 chrome
+url                     http://desktop-9i4god1/login.do
